@@ -1,0 +1,16 @@
+# ninja log v6
+10	932	7492330735094787	build.ninja	1bd04f439f030477
+10	1409	7492330748249132	App_autogen/timestamp	ed5179fd05714830
+10	1409	7492330748249132	App_autogen/mocs_compilation.cpp	ed5179fd05714830
+10	1409	7492330748249132	F:/AAA_qiqi/codes/Projects/Qt/App/build/Desktop_Qt_6_8_0_MinGW_64_bit-MinSizeRel/App_autogen/timestamp	ed5179fd05714830
+10	1409	7492330748249132	F:/AAA_qiqi/codes/Projects/Qt/App/build/Desktop_Qt_6_8_0_MinGW_64_bit-MinSizeRel/App_autogen/mocs_compilation.cpp	ed5179fd05714830
+1414	1659	7492330751782696	App_autogen/EWIEGA46WW/qrc_img.cpp	c75ddaaa68c7efec
+1414	1659	7492330751782696	F:/AAA_qiqi/codes/Projects/Qt/App/build/Desktop_Qt_6_8_0_MinGW_64_bit-MinSizeRel/App_autogen/EWIEGA46WW/qrc_img.cpp	c75ddaaa68c7efec
+1710	5116	7492330752599517	CMakeFiles/App.dir/start.cpp.obj	c10546545e17b984
+1675	5118	7492330752239474	CMakeFiles/App.dir/main.cpp.obj	9794e63829a8b477
+1660	5119	7492330752095989	CMakeFiles/App.dir/App_autogen/mocs_compilation.cpp.obj	aaee6b72a7176645
+1692	5130	7492330752419687	CMakeFiles/App.dir/mainwindow.cpp.obj	7e046ea28c45083c
+1769	5152	7492330753195971	CMakeFiles/App.dir/App_autogen/EWIEGA46WW/qrc_img.cpp.obj	364d4cf10ae5f23b
+1730	5215	7492330752789491	CMakeFiles/App.dir/a1.cpp.obj	e90f11532c1bee21
+1750	5510	7492330752996028	CMakeFiles/App.dir/file.cpp.obj	4ed41a6411278119
+5511	6157	7492330790607239	App.exe	3fd98633cb0698fe
