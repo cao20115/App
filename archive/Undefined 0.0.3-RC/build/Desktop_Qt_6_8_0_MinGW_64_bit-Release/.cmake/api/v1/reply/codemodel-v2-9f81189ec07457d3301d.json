@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-0aec5b8a3cd0d19341df.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "App",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "App::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-App-Release-b9c82e3ebd250878e56e.json",
+					"name" : "App",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "App_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-App_autogen-Release-c7f1dcb9216ff2490a78.json",
+					"name" : "App_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "App_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-App_autogen_timestamp_deps-Release-dfe81d54c874cbe41d76.json",
+					"name" : "App_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/AAA_qiqi/codes/Projects/Qt/App/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release",
+		"source" : "F:/AAA_qiqi/codes/Projects/Qt/App"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

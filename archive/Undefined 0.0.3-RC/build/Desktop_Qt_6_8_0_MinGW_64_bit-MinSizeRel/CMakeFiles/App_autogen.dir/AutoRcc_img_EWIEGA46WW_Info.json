@@ -1,0 +1,26 @@
+{
+	"BUILD_DIR" : "F:/AAA_qiqi/codes/Projects/Qt/App/build/Desktop_Qt_6_8_0_MinGW_64_bit-MinSizeRel/App_autogen",
+	"CMAKE_BINARY_DIR" : "F:/AAA_qiqi/codes/Projects/Qt/App/build/Desktop_Qt_6_8_0_MinGW_64_bit-MinSizeRel",
+	"CMAKE_CURRENT_BINARY_DIR" : "F:/AAA_qiqi/codes/Projects/Qt/App/build/Desktop_Qt_6_8_0_MinGW_64_bit-MinSizeRel",
+	"CMAKE_CURRENT_SOURCE_DIR" : "F:/AAA_qiqi/codes/Projects/Qt/App",
+	"CMAKE_SOURCE_DIR" : "F:/AAA_qiqi/codes/Projects/Qt/App",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "F:/AAA_qiqi/codes/Projects/Qt/App/build/Desktop_Qt_6_8_0_MinGW_64_bit-MinSizeRel/App_autogen/include",
+	"INPUTS" : 
+	[
+		"F:/AAA_qiqi/codes/Projects/Qt/App/img/img2.png",
+		"F:/AAA_qiqi/codes/Projects/Qt/App/img/img1.png"
+	],
+	"LOCK_FILE" : "F:/AAA_qiqi/codes/Projects/Qt/App/build/Desktop_Qt_6_8_0_MinGW_64_bit-MinSizeRel/CMakeFiles/App_autogen.dir/AutoRcc_img_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "img" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_img.cpp",
+	"RCC_EXECUTABLE" : "D:/Qt'/6.8.0/mingw_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "F:/AAA_qiqi/codes/Projects/Qt/App/build/Desktop_Qt_6_8_0_MinGW_64_bit-MinSizeRel/CMakeFiles/App_autogen.dir/AutoRcc_img_EWIEGA46WW_Used.txt",
+	"SOURCE" : "F:/AAA_qiqi/codes/Projects/Qt/App/img.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}
