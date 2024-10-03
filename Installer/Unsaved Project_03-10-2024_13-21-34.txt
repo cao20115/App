@@ -1,0 +1,245 @@
+开始构建...
+03-Oct-24  01:19:46 PM
+项目文件: Unsaved Document
+
+更新屏幕主题
+创建数据的生成副本
+定位生成配置
+> 使用生成配置: Default
+> 目标平台: 64-bit (x64)
+扩展设计时间常数
+排除不在当前生成配置中的文件...
+> 0 个文件从构建中排除
+排除不在当前生成配置中的依赖项模块...
+执行预构建检查中...
+验证存档文件中...
+验证外部文件中...
+Ordering file list...
+展开文件夹引用中...
+排除生成配置的全局脚本文件中...
+包括全局脚本文件...
+> 包含脚本文件: D:\Setup Factory 9.5.3\Includes\Scripts\_SUF70_Global_Functions.lua
+处理序列号列表中...
+> 加密: List 1 (0 项目)
+初始化存档中...
+> 使用临时生成文件夹: C:\Users\honor\AppData\Local\Temp\_ir_sf_build_0
+收集初始文件中...
+收集字体中...
+在安装程序中生成映像文件...
+> 从以前的生成中删除临时映像文件...
+> 从中收集映像 安装屏幕前
+> 从中收集映像 安装屏幕期间
+> 从中收集映像 安装屏幕后
+> 从中收集映像 卸载屏幕后
+> 从中收集映像 卸载屏幕期间
+> 从中收集映像 卸载屏幕之前
+> 收集其他映像
+> 转换映像...
+>> 映像: D:\Setup Factory 9.5.3\Themes\Connectivity\111_X_63_connect.jpg
+>> 映像: D:\Setup Factory 9.5.3\Themes\Connectivity\166_X_312_connect.jpg
+处理语言模块中...
+> 添加的默认语言: Chinese (Simplified) (D:\Setup Factory 9.5.3\Languages\Chinese_Simplified.xml)
+压缩文件中...
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\App.exe
+... compression ratio: 11% (1138656 bytes -> 1005759 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\D3Dcompiler_47.dll
+... compression ratio: 64% (4173928 bytes -> 1476927 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\libgcc_s_seh-1.dll
+... compression ratio: 58% (109056 bytes -> 44955 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\libstdc++-6.dll
+... compression ratio: 72% (2243072 bytes -> 625758 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\libwinpthread-1.dll
+... compression ratio: 58% (53248 bytes -> 22193 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\opengl32sw.dll
+... compression ratio: 71% (20639888 bytes -> 5935295 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\Qt6Core.dll
+... compression ratio: 66% (6892216 bytes -> 2293735 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\Qt6Gui.dll
+... compression ratio: 64% (10923184 bytes -> 3885852 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\Qt6Network.dll
+... compression ratio: 65% (2011824 bytes -> 698686 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\Qt6Svg.dll
+... compression ratio: 64% (495280 bytes -> 177486 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\Qt6Widgets.dll
+... compression ratio: 64% (7013040 bytes -> 2481747 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\generic\qtuiotouchplugin.dll
+... compression ratio: 58% (97472 bytes -> 40893 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\iconengines\qsvgicon.dll
+... compression ratio: 58% (73408 bytes -> 30385 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\imageformats\qgif.dll
+... compression ratio: 51% (48832 bytes -> 23775 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\imageformats\qicns.dll
+... compression ratio: 53% (58048 bytes -> 27085 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\imageformats\qico.dll
+... compression ratio: 53% (49856 bytes -> 23416 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\imageformats\qjpeg.dll
+... compression ratio: 70% (641728 bytes -> 187640 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\imageformats\qsvg.dll
+... compression ratio: 53% (40128 bytes -> 18512 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\imageformats\qtga.dll
+... compression ratio: 53% (39616 bytes -> 18464 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\imageformats\qtiff.dll
+... compression ratio: 65% (502976 bytes -> 172669 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\imageformats\qwbmp.dll
+... compression ratio: 53% (38080 bytes -> 17787 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\imageformats\qwebp.dll
+... compression ratio: 54% (529600 bytes -> 243594 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\networkinformation\qnetworklistmanager.dll
+... compression ratio: 47% (100032 bytes -> 52908 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\platforms\qwindows.dll
+... compression ratio: 64% (1098944 bytes -> 394165 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\styles\qmodernwindowsstyle.dll
+... compression ratio: 58% (240320 bytes -> 99095 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\tls\qcertonlybackend.dll
+... compression ratio: 58% (103616 bytes -> 43003 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\tls\qschannelbackend.dll
+... compression ratio: 64% (257728 bytes -> 92382 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_ar.qm
+... compression ratio: 73% (160017 bytes -> 42376 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_bg.qm
+... compression ratio: 75% (165337 bytes -> 41209 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_ca.qm
+... compression ratio: 75% (209866 bytes -> 50861 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_cs.qm
+... compression ratio: 75% (174701 bytes -> 43542 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_da.qm
+... compression ratio: 75% (181387 bytes -> 45342 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_de.qm
+... compression ratio: 76% (222470 bytes -> 52659 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_en.qm
+... compression ratio: 0% (33 bytes -> 33 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_es.qm
+... compression ratio: 75% (165170 bytes -> 40923 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_fa.qm
+... compression ratio: 74% (148156 bytes -> 38503 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_fi.qm
+... compression ratio: 75% (179941 bytes -> 44471 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_fr.qm
+... compression ratio: 75% (159430 bytes -> 38691 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_gd.qm
+... compression ratio: 76% (189580 bytes -> 44293 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_he.qm
+... compression ratio: 73% (138690 bytes -> 37314 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_hr.qm
+... compression ratio: 75% (149711 bytes -> 37296 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_hu.qm
+... compression ratio: 74% (205885 bytes -> 51877 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_it.qm
+... compression ratio: 75% (161133 bytes -> 39324 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_ja.qm
+... compression ratio: 70% (129913 bytes -> 38036 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_ka.qm
+... compression ratio: 75% (201105 bytes -> 49386 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_ko.qm
+... compression ratio: 70% (156799 bytes -> 45555 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_lv.qm
+... compression ratio: 74% (153608 bytes -> 39398 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_nl.qm
+... compression ratio: 75% (202861 bytes -> 49986 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_nn.qm
+... compression ratio: 74% (196424 bytes -> 49213 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_pl.qm
+... compression ratio: 74% (162962 bytes -> 40845 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_pt_BR.qm
+... compression ratio: 75% (208516 bytes -> 50517 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_ru.qm
+... compression ratio: 74% (203767 bytes -> 50959 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_sk.qm
+... compression ratio: 73% (125763 bytes -> 33137 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_tr.qm
+... compression ratio: 74% (190755 bytes -> 49021 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_uk.qm
+... compression ratio: 74% (158241 bytes -> 40607 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_zh_CN.qm
+... compression ratio: 68% (136673 bytes -> 42413 bytes)
+> Compressing: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_zh_TW.qm
+... compression ratio: 68% (126185 bytes -> 39889 bytes)
+安装屏幕时处理...
+正在创建安装程序配置文件...
+初始化存档文件...
+创建存档标题...
+> 启动程序清单
+> 编写版本信息
+> 安装程序引擎
+> 安装程序清单
+> 配置文件
+> Images
+正在构建安装程序可执行文件中..
+> 计算磁盘空间需求
+Warning 7003: Custom output file segment size smaller than space needed for primer file(s) and setup executable. Output file segment size has been increased to: 5655297 bytes
+将文件添加到存档...
+> 添加存档标题
+> 已创建安装段: Undefined_0.0.4-alpha-setup.exe
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\App.exe
+> 已创建安装段: Undefined_0.0.4-alpha-setup.2
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\D3Dcompiler_47.dll
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\libgcc_s_seh-1.dll
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\libstdc++-6.dll
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\libwinpthread-1.dll
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\opengl32sw.dll
+> 已创建安装段: Undefined_0.0.4-alpha-setup.3
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\Qt6Core.dll
+> 已创建安装段: Undefined_0.0.4-alpha-setup.4
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\Qt6Gui.dll
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\Qt6Network.dll
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\Qt6Svg.dll
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\Qt6Widgets.dll
+> 已创建安装段: Undefined_0.0.4-alpha-setup.5
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\generic\qtuiotouchplugin.dll
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\iconengines\qsvgicon.dll
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\imageformats\qgif.dll
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\imageformats\qicns.dll
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\imageformats\qico.dll
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\imageformats\qjpeg.dll
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\imageformats\qsvg.dll
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\imageformats\qtga.dll
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\imageformats\qtiff.dll
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\imageformats\qwbmp.dll
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\imageformats\qwebp.dll
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\networkinformation\qnetworklistmanager.dll
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\platforms\qwindows.dll
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\styles\qmodernwindowsstyle.dll
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\tls\qcertonlybackend.dll
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\tls\qschannelbackend.dll
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_ar.qm
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_bg.qm
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_ca.qm
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_cs.qm
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_da.qm
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_de.qm
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_en.qm
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_es.qm
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_fa.qm
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_fi.qm
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_fr.qm
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_gd.qm
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_he.qm
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_hr.qm
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_hu.qm
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_it.qm
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_ja.qm
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_ka.qm
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_ko.qm
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_lv.qm
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_nl.qm
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_nn.qm
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_pl.qm
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_pt_BR.qm
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_ru.qm
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_sk.qm
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_tr.qm
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_uk.qm
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_zh_CN.qm
+> Adding file: F:\AAA_qiqi\App\portable\Undefined 0.0.4-Alpha\translations\qt_zh_TW.qm
+
+生成摘要:
+输出文件夹: F:\AAA_qiqi\App\Installer
+已创建的安装文件:
+> Undefined_0.0.4-alpha-setup.exe - 5.39 MB (5655297 bytes)
+> Undefined_0.0.4-alpha-setup.2 - 5.39 MB (5655297 bytes)
+> Undefined_0.0.4-alpha-setup.3 - 5.39 MB (5655297 bytes)
+> Undefined_0.0.4-alpha-setup.4 - 5.39 MB (5655297 bytes)
+> Undefined_0.0.4-alpha-setup.5 - 4.23 MB (4435951 bytes)
+总构建时间: 00:00:23
+
+构建成功完成 - 0 个错误, 1 个警告
